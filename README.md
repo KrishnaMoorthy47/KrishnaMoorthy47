@@ -2,24 +2,40 @@
 
 🚀 AI Engineer | LLM Engineer | Prompt Engineering
 
-I specialize in building real-world Generative AI applications using LLMs, RAG, and automation pipelines.
+I build real-world Generative AI applications that automate workflows and improve efficiency using LLMs, RAG, and intelligent pipelines.
 
 ---
 
 ## 💼 What I Do
 
 * Build production-ready LLM applications using OpenAI & Azure OpenAI
-* Design RAG pipelines for document understanding
+* Design RAG pipelines for document understanding and retrieval
 * Develop AI systems for email parsing & structured data extraction
-* Optimize prompts for accuracy and performance
+* Optimize prompts for accuracy, cost, and performance
 
 ---
 
-## 🔥 What I’ve Built
+## 🔥 Key Projects & Impact
 
-* 📄 Sales Order Automation → Reduced manual effort by **60–70%**
-* 🔍 RAG-based Document QA → Semantic search over enterprise data
-* 📧 Email Intent Classification → Improved efficiency by **40%**
+### 📄 Sales Order Automation (LLM + OCR)
+
+* Reduced manual effort by **60–70%**
+* Processes PDFs, images, Excel, DOCX
+* Built using Azure Document Intelligence + LLM pipeline
+
+---
+
+### 🔍 RAG-based Document QA
+
+* Built semantic search system for enterprise documents
+* Enables context-aware question answering
+
+---
+
+### 📧 Email Intent Classification
+
+* Extracts structured data from emails automatically
+* Improved processing efficiency by **40%**
 
 ---
 
@@ -27,19 +43,19 @@ I specialize in building real-world Generative AI applications using LLMs, RAG, 
 
 * LLMs: OpenAI, Azure OpenAI
 * Frameworks: LangChain
-* Vector DB: FAISS, Qdrant
+* Vector Databases: FAISS, Qdrant
 * Backend: Python, FastAPI
 * ML/NLP: Transformers, HuggingFace
 
 ---
 
-## 📌 Featured Repositories
+## 📌 Featured Repository
 
-* GenAI Projects → https://github.com/KrishnaMoorthy47/GenAI_Projects
+👉 GenAI Projects:
+https://github.com/KrishnaMoorthy47/GenAI_Projects
 
 ---
 
 ## 📬 Connect with Me
 
-* LinkedIn: (add your link)
-* Email: (add your email)
+* LinkedIn: https://www.linkedin.com/in/krishna-b-81bab3207/
